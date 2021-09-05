@@ -1,3 +1,48 @@
+Commander Banlist:
+Ancestral Recall
+Balance
+Biorhythm
+Black Lotus
+Chaos Orb
+Coalition Victory
+Channel
+Emrakul, the Aeons Torn
+Erayo, Soratami Ascendant
+Falling Star
+Fastbond
+Flash
+Gifts Ungiven
+Griselbrand
+Hullbreacher
+Iona, Shield of Emeria
+Karakas
+Library of Alexandria
+Limited Resources
+Lutri, the Spellchaser
+Mox Emerald
+Mox Jet
+Mox Pearl
+Mox Ruby
+Mox Sapphire
+Panoptic Mirror
+Paradox Engine
+Primeval Titan
+Prophet of Kruphix
+Recurring Nightmare
+Shahrazad
+Sundering Titan
+Sway of the Stars
+Sylvan Primordial
+Time Vault
+Time Walk
+Tinker
+Tolarian Academy
+Trade Secrets
+Upheaval
+Worldfire
+Yawgmoth's Bargain
+
+Duel Commander additional bans:
 ancient tomb
 back to basics
 capture of jingzhou
@@ -47,45 +92,3 @@ treasure cruise
 uro, titan of nature's wrath
 vampiric tutor
 wasteland
-Ancestral Recall
-Balance
-Biorhythm
-Black Lotus
-Chaos Orb
-Coalition Victory
-Channel
-Emrakul, the Aeons Torn
-Erayo, Soratami Ascendant
-Falling Star
-Fastbond
-Flash
-Gifts Ungiven
-Griselbrand
-Hullbreacher
-Iona, Shield of Emeria
-Karakas
-Library of Alexandria
-Limited Resources
-Lutri, the Spellchaser
-Mox Emerald
-Mox Jet
-Mox Pearl
-Mox Ruby
-Mox Sapphire
-Panoptic Mirror
-Paradox Engine
-Primeval Titan
-Prophet of Kruphix
-Recurring Nightmare
-Shahrazad
-Sundering Titan
-Sway of the Stars
-Sylvan Primordial
-Time Vault
-Time Walk
-Tinker
-Tolarian Academy
-Trade Secrets
-Upheaval
-Worldfire
-Yawgmoth's Bargain
